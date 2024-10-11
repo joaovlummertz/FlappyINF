@@ -1,0 +1,166 @@
+# depslib dependency file v1.0
+1708296020 source:c:\raylib\flappyinf\main.c
+	"game.h"
+	"difficulty.h"
+	"ranking.h"
+	<stdio.h>
+
+1705280444 source:c:\raylib\flappyinf\jogo.c
+	"raylib.h"
+
+1707934474 c:\raylib\flappyinf\raymath.h
+	<math.h>
+
+1706019544 source:x:\downloads\flappyinf\main.c
+	"raylib.h"
+	"raymath.h"
+	<stdio.h>
+
+1700085250 x:\downloads\flappyinf\raymath.h
+	<math.h>
+
+1708296617 c:\raylib\flappyinf\game.h
+	"raylib.h"
+	"raymath.h"
+	"difficulty.h"
+	<stdio.h>
+	<time.h>
+
+1708295660 source:c:\raylib\flappyinf\game.c
+	"game.h"
+	"difficulty.h"
+	<stdlib.h>
+
+1707934474 c:\raylib\flappyinf\difficulty.h
+
+1707934474 source:c:\raylib\flappyinf\difficulty.c
+	"difficulty.h"
+	<stdio.h>
+
+1707934472 source:c:\users\usuario\documents\alg e prog trabalho\flappyinf\difficulty.c
+	"difficulty.h"
+	<stdio.h>
+
+1707934472 c:\users\usuario\documents\alg e prog trabalho\flappyinf\difficulty.h
+
+1708226143 source:c:\users\usuario\documents\alg e prog trabalho\flappyinf\game.c
+	"game.h"
+	"difficulty.h"
+
+1708226143 c:\users\usuario\documents\alg e prog trabalho\flappyinf\game.h
+	"raylib.h"
+	"raymath.h"
+	"difficulty.h"
+	<stdio.h>
+	<time.h>
+
+1707934472 c:\users\usuario\documents\alg e prog trabalho\flappyinf\raymath.h
+	<math.h>
+
+1708226219 source:c:\users\usuario\documents\alg e prog trabalho\flappyinf\main.c
+	"game.h"
+	"difficulty.h"
+	"ranking.h"
+	<stdio.h>
+
+1708216052 c:\users\usuario\documents\alg e prog trabalho\flappyinf\ranking.h
+	<stdio.h>
+	<stdbool.h>
+	"raylib.h"
+
+1708215418 c:\users\usuario\documents\alg e prog trabalho\flappyinf\menu.h
+	"raylib.h"
+	"raymath.h"
+	"ranking.h"
+	<stdio.h>
+
+1708215999 source:c:\users\usuario\documents\alg e prog trabalho\flappyinf\menu.c
+	"menu.h"
+	<stdio.h>
+
+1708216071 source:c:\users\usuario\documents\alg e prog trabalho\flappyinf\ranking.c
+	"ranking.h"
+
+1708216054 c:\raylib\flappyinf\ranking.h
+	<stdio.h>
+	<stdbool.h>
+	"raylib.h"
+
+1708216182 source:c:\raylib\flappyinf\menu.c
+
+1708296190 source:c:\raylib\flappyinf\ranking.c
+	"ranking.h"
+
+1708231515 c:\raylib\flappyinf\animation.h
+	"raylib.h"
+
+1707934474 source:c:\users\usuario\documents\alg e prog trabalho\mariana siqueira zamora e joão vítor leffa lummertz - trabalho final de algoritmos e programação\projeto\difficulty.c
+	"difficulty.h"
+	<stdio.h>
+
+1707934474 c:\users\usuario\documents\alg e prog trabalho\mariana siqueira zamora e joão vítor leffa lummertz - trabalho final de algoritmos e programação\projeto\difficulty.h
+
+1708296020 source:c:\users\usuario\documents\alg e prog trabalho\mariana siqueira zamora e joão vítor leffa lummertz - trabalho final de algoritmos e programação\projeto\main.c
+	"game.h"
+	"difficulty.h"
+	"ranking.h"
+	<stdio.h>
+
+1708296617 c:\users\usuario\documents\alg e prog trabalho\mariana siqueira zamora e joão vítor leffa lummertz - trabalho final de algoritmos e programação\projeto\game.h
+	"raylib.h"
+	"raymath.h"
+	"difficulty.h"
+	<stdio.h>
+	<time.h>
+
+1707934474 c:\users\usuario\documents\alg e prog trabalho\mariana siqueira zamora e joão vítor leffa lummertz - trabalho final de algoritmos e programação\projeto\raymath.h
+	<math.h>
+
+1708216054 c:\users\usuario\documents\alg e prog trabalho\mariana siqueira zamora e joão vítor leffa lummertz - trabalho final de algoritmos e programação\projeto\ranking.h
+	<stdio.h>
+	<stdbool.h>
+	"raylib.h"
+
+1708296190 source:c:\users\usuario\documents\alg e prog trabalho\mariana siqueira zamora e joão vítor leffa lummertz - trabalho final de algoritmos e programação\projeto\ranking.c
+	"ranking.h"
+
+1708307304 source:c:\users\usuario\documents\alg e prog trabalho\mariana siqueira zamora e joão vítor leffa lummertz - trabalho final de algoritmos e programação\projeto\game.c
+	"game.h"
+	"difficulty.h"
+	<stdlib.h>
+
+1715836314 source:c:\dev\flappyinf\projeto\difficulty.c
+	"difficulty.h"
+	<stdio.h>
+
+1715836314 c:\dev\flappyinf\projeto\difficulty.h
+
+1715836315 source:c:\dev\flappyinf\projeto\game.c
+	"game.h"
+	"difficulty.h"
+	<stdlib.h>
+
+1715836315 c:\dev\flappyinf\projeto\game.h
+	"raylib.h"
+	"raymath.h"
+	"difficulty.h"
+	<stdio.h>
+	<time.h>
+
+1715836315 c:\dev\flappyinf\projeto\raymath.h
+	<math.h>
+
+1715836315 source:c:\dev\flappyinf\projeto\main.c
+	"game.h"
+	"difficulty.h"
+	"ranking.h"
+	<stdio.h>
+
+1715836315 c:\dev\flappyinf\projeto\ranking.h
+	<stdio.h>
+	<stdbool.h>
+	"raylib.h"
+
+1715836315 source:c:\dev\flappyinf\projeto\ranking.c
+	"ranking.h"
+
